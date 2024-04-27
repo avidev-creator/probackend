@@ -1,0 +1,11 @@
+PORT = 8000
+MONGODB_URI = mongodb+srv://<username>:<password>@cluster0.z8v0nl5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+CORS_ORIGIN = *
+ACCESS_TOKEN_SECRET = 6cf9fa922e27cca62d75cea0b6eebd98cf3b6de2f5e295dbb656435f84dfd9ac
+ACCESS_TOKEN_EXPIRY = 1d
+REFRESH_TOKEN_SECRET = 6396b19f7bd427c6ec9309dbe8d7277332198a876d7bb82a66fe1270e3d7e3ec
+REFRESH_TOKEN_EXPIRY = 10d
+
+CLOUDINARY_CLOUD_NAME = name
+CLOUDINARY_API_KEY = apikey
+CLOUDINARY_API_SECRET = apisecret
